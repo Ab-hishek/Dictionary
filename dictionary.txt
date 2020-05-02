@@ -1,0 +1,15 @@
+contain: include
+goal: The desired result in something
+verb: Predicate
+cold: Low Temperature
+ice: Frozen water
+good: Fine
+voyage: The name given to round trips between countries or cities.
+call: conversation by phone
+century: the time lived
+ocean: water larger than sea
+car: A vehicle to go from place to place
+rose: A kind of flower with various colors
+travel: Go from place to another
+laugh: Action taken as a result of happiness.
+fear: worry
