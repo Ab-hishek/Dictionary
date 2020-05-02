@@ -11,6 +11,7 @@ A Dictionary implemented in C++ Language.
 ## Functions Overview
  ### 1. insertWord()
 function to insert a new word and its meaning into the dictionary:
+
 <img width="462" alt="insert" src="https://user-images.githubusercontent.com/44068648/80862403-68d31800-8c92-11ea-8b16-5434354f57ed.PNG">
 
  ### 2. searchWord()
@@ -33,5 +34,8 @@ function to print all the contents of the dictionary:
 
 <img width="440" alt="display" src="https://user-images.githubusercontent.com/44068648/80862543-88b70b80-8c93-11ea-9989-e21e33689827.PNG">
 
-
+## Command to compile the code:
+  javac Dictionary.java
+## Command to exceute the code:
+  java Dictionary
      
