@@ -1,5 +1,5 @@
 # Dictionary
-A Dictionary implemented in C++ Language.
+A Dictionary implemented in java Language.
 
 ## Functionality of the Dictionary
  1. Insert a word in the Dictionary
