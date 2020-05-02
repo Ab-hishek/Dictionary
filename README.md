@@ -35,7 +35,7 @@ function to print all the contents of the dictionary:
 <img width="440" alt="display" src="https://user-images.githubusercontent.com/44068648/80862543-88b70b80-8c93-11ea-9989-e21e33689827.PNG">
 
 ## Command to compile the code:
-  javac Dictionary.java
+    javac Dictionary.java
 ## Command to exceute the code:
-  java Dictionary
+    java Dictionary
      
