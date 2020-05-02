@@ -10,5 +10,5 @@ A Dictionary implemented in C++ Language.
 
 ## Functions Overview
  ### 1. insertWord()
-     - function to insert a new word and its meaning into the dictionary:
+function to insert a new word and its meaning into the dictionary:
      
